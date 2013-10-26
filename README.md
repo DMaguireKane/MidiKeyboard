@@ -1,4 +1,4 @@
-Midi Keyboard
+<img src="src/keyboard/resources/music_note_icon.png" width="32px"/> Midi Keyboard
 ==============
 
 Music at your fingertips.
