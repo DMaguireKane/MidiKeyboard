@@ -1,8 +1,10 @@
-MyMidiKeyboard
+Midi Keyboard
 ==============
 
-An interactive MIDI soundboard based keyboard
+Music at your fingertips.
+On a QWERTY keyboard there are three rows of alphabetical keys. 
+**Midi Keyboard** maps each key to a note.
+The key with the lowest pitch begins at the key 'Z' and highest at 'P'
+so pitch increases left-to-right along each row continuing at the beginning of the next row above.
 
-![mymidikeyboard](img/my_midi_keyboard.png)
-
-![mymidikeyboard](img/my_midi_keyboard_keys_pressed.png)
+![midikeyboard](img/my_midi_keyboard.png)
